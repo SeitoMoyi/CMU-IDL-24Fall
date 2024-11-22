@@ -1,3 +1,5 @@
+# CMU 11785 Introduction to Deep Learning 2024 Fall
+
 ## HW1P2
 
 [11785 HW1P2 - Speech recognition | Kaggle](https://www.kaggle.com/t/21e7b96534934cfb9329c004db7d1022)
