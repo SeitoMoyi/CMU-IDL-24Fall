@@ -21,3 +21,5 @@ Score: 5.49681
 ## HW4P2
 
 [11785 HW4P2 - Transformer ASR | Kaggle](https://www.kaggle.com/t/36ac716957f74cc1826a606c29b70141)
+
+Score: 11.06999
